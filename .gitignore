@@ -1,0 +1,17 @@
+/known_faces
+
+# Model files
+*.pt
+*.pth
+*.onnx
+
+# Other ML artifacts
+runs/
+weights/
+smodels/
+
+# Virtual environment
+venv/
+
+# YOLOv8 specific
+yolov8*.pt
